@@ -95,4 +95,4 @@ client.on("ready", () => {
 client.on("guildCreate", updateGuildQueue);
 client.on("guildDelete", updateGuildQueue);
 
-client.login("");
+client.login("OTc4NTczNDU0ODQyNDI5NDgx.G_Cxwr.Ji9E9Jw4CaMVzq4lLWsqhB3KbQb3VanHLG_7Mc");
